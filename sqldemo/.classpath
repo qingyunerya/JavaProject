@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/deskback/java_sqlsever/jdbc/sqljdbc_6.0.8112.200_chs/sqljdbc_6.0/chs/jre8/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="D:/Microsoft JDBC Driver 4.0 for SQL Server/sqljdbc_4.0/chs/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="F:/Project/eclipse/Java swing实现简单的浏览器源码免费分享/Browse/ck/org.eclipse.jface_3.3.2.M20080207-0800.jar"/>
+	<classpathentry kind="lib" path="F:/Project/eclipse/Java swing实现简单的浏览器源码免费分享/Browse/ck/org.eclipse.swt.win32.win32.x86_3.3.3.v3349.jar"/>
+	<classpathentry kind="lib" path="F:/Project/eclipse/Java swing实现简单的浏览器源码免费分享/Browse/ck/org.eclipse.swt_3.3.2.v3349d.jar"/>
+	<classpathentry kind="lib" path="F:/Project/eclipse/java源项目/BrowserSwing/lib/jxbrowser-6.14.2-refine.jar"/>
+	<classpathentry kind="lib" path="F:/Project/eclipse/java源项目/BrowserSwing/lib/jxbrowser-win32-6.14.2.jar"/>
+	<classpathentry kind="lib" path="F:/Project/eclipse/java源项目/BrowserSwing/lib/license.jar"/>
+	<classpathentry kind="lib" path="F:/Project/eclipse/java源项目/BrowserSwing/lib/swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
